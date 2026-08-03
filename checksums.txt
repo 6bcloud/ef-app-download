@@ -1,5 +1,5 @@
 a565cca32261768c1ffad2b56c486844d76998a2ec5de7555da54bd1f235c0a7  ef-network-3.7.8-linux-amd64.AppImage
-9e57f69c4d70ae87eef26cb514e4122a63fb178957b72ece5836bbea77b16326  ef-network-3.7.8-linux-amd64.deb
+02e50a58be4f611853a5fffb1a4630dce74d6b9708a81cd6f38d57cf8e78ff97  ef-network-3.7.8-linux-amd64.deb
 c551c6e74bc9a68e8226dca4974d813fcf0dcc28e1d1ed23570c98a5c99630ad  ef-network-3.7.8-macos-universal.dmg
 ca535e19e3ee530d40d87cd1a6bafac68acb2326a3f59e7eb8399f7ef3a5845b  ef-network-3.7.8-macos-universal.zip
 705bb147dadb83d436c5a73cd647345ad810515ee6bc1687f3c1c67ed90e69d4  ef-network-3.7.8-windows-amd64-setup.exe
